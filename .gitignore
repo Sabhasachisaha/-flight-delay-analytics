@@ -1,0 +1,14 @@
+# Data files (too large for GitHub, and not meant to be versioned)
+data/*.csv
+data/*.db
+data/flights_raw.csv
+data/flights.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
